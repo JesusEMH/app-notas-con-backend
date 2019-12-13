@@ -1,0 +1,13 @@
+en la carpeta "front-end" se encuentra toda la programacion con angular, y en la carpeta "api" esta el backend.
+
+En la carpeta base de datos estan las instrucciones para instalar la base de datos.
+
+para ejecutar la aplicacion de notas es necesario:
+
+-tener instalado angular 7 y nodejs en el dispositivo.
+-tener instalado el gestor de bases de datos mongodb en el dispositivo.
+-para ejecutar el backend entrar por consola de comandos a la carpeta "api" y ejecutar el servidor con "npm start".
+-para ejecutar el frontend hay que entrar por terminal de comandos a la carpeta "front-end" y ejecutar "ng serve" para ejecutar el servidor.
+-tener ejecutandose la terminal de mongodb mientras el backend esta ejecutandose.
+
+

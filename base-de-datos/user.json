@@ -1,0 +1,129 @@
+/* 1 */
+{
+    "_id" : ObjectId("5deedb58a308e83b2810f680"),
+    "name" : "arnold",
+    "surname" : "suarez",
+    "nick" : "susui",
+    "email" : "suarez@suarez.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$ajKRteB5Zw9JZIADuOYA0uvs4lrUU3Vp.GgZ.XinbYBsDQBGDq8/W",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "name" : "julio",
+    "surname" : "pesado",
+    "nick" : "juliopesado",
+    "email" : "julio@pesado.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$cPC7Nmrl4RPfTt.sKOx0n.Bd1iuLioMAya1eGSCypgrrFOjRwJsWG",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5df14c37813c1043b8122fa8"),
+    "name" : "jesus",
+    "surname" : "Martinez",
+    "nick" : "JesusEM",
+    "email" : "mundoclark@hotmail.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$ckilKnhJgyvgQg.Kpu3Q5e57iBvOrZDKJUbiv8CFp3blAcjyvk9gy",
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5df14d02813c1043b8122fa9"),
+    "name" : "manuel",
+    "surname" : "riveiro",
+    "nick" : "manuriveiro",
+    "email" : "manuel@riveiro.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$vqeDcCk5Tp0ST9gHJAUMIuR1CWKMb1omJTWdmHCQdxnqgkgT4A39C",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5df14dc7813c1043b8122faa"),
+    "name" : "eleanor",
+    "surname" : "rivera",
+    "nick" : "eleanor",
+    "email" : "eleanor@rivera.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$0bmNvfmmO3rQgr/BObS3AeUmvnXmKPkaPeXtAulHqdmdpSUi4Cmv2",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5df14e0f813c1043b8122fab"),
+    "name" : "jose",
+    "surname" : "cavaleiro",
+    "nick" : "josecavaleiro",
+    "email" : "jose@cavaleiro.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$FSIE5CDydApMn4/fDqbinuH0UDAPq.QtzMRkmeccIFzSWnU3cUk3i",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5df14ebe813c1043b8122fac"),
+    "name" : "edwref",
+    "surname" : "sfddfds",
+    "nick" : "dsfdsfd",
+    "email" : "dsfsd@sfrfr.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$zw.MtgivneETiZcvM0wsaer.8D.hR0cGHwEfkKTLL4iWd7TYsJtE.",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5df1500f813c1043b8122fae"),
+    "name" : "refer",
+    "surname" : "refer",
+    "nick" : "erfref",
+    "email" : "retert@fgerg4.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$9Ba/FLhPGIqt64f0Cuk8UeQC6yARqeaxW2YFEMZPydnf3aStQfGu6",
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5df1504b813c1043b8122faf"),
+    "name" : "edede",
+    "surname" : "eded",
+    "nick" : "ewdewd",
+    "email" : "ewe@eef4.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$7OYgd1kDw7zufnkv0Ji4YebI9P/2dw.jKr8wwf3qZsi/.pgXMfcJa",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5df15080813c1043b8122fb0"),
+    "name" : "dewf",
+    "surname" : "erfer",
+    "nick" : "efwef",
+    "email" : "dwef@feerf4.com",
+    "role" : "ROLE_USER",
+    "image" : null,
+    "password" : "$2a$10$TNNhk6OvJ5hZiX8d0jBZAOlfNbTA/qC78hVO1iJ2FHNo4ZCJFOMMS",
+    "__v" : 0
+}

@@ -1,0 +1,14 @@
+La base de datos esta creada en mongodb y conectada al backend (carpeta api), de forma que en el codigo del backend la base de datos se llama "note-app" y contiene dos colecciones de elementos, los cuales son "notes" y "user", que son los que anexo en esta misma carpeta.
+
+NOTA: los archivos notes.json y user.json son archivos unicamente de ejemplos.
+
+para instalar la base de datos se necesita:
+
+-instalar mongodb.
+-tener ejecutando mongodb.
+-instalar robo 3T (software donde se crea la base de datos y las colecciones).
+-crear una base de datos llamada "note-app".
+-crear dos colecciones dentro de la misma base de datos llamados "notes" y "user".
+-en el frontend podemos usar los formularios para crear nuevas notas y usuarios nuevos.
+
+

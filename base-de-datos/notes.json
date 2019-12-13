@@ -1,0 +1,130 @@
+
+/* 1 */
+{
+    "_id" : ObjectId("5df14558813c1043b8122f92"),
+    "title" : "hacer el trabajo final",
+    "text" : "reunirnos para hacer el proyecto que es para entregarse a tiempo",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5df14585813c1043b8122f93"),
+    "title" : "ir a la entrevista",
+    "text" : "realizar una entrevista para una materia sobre una investigacion ",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5df145be813c1043b8122f94"),
+    "title" : "hacer de comer",
+    "text" : "reunir los ingredientes para realizar una comida en familia",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5df14602813c1043b8122f95"),
+    "title" : "reunirme con mis amigos",
+    "text" : "realizar una reunion importante con varios de nuestros amigos y pasarla bien",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5df14634813c1043b8122f96"),
+    "title" : "hacer un poco de ejercicio",
+    "text" : "realizar ejercicio en uno de los parques mas cercanos de la ciudad",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5df14669813c1043b8122f97"),
+    "title" : "ir a la playa",
+    "text" : "realizar una reunion en la playa",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5df146f8813c1043b8122f98"),
+    "title" : "salir a pasear",
+    "text" : "reunirme con mi familia y realizar un paseo",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5df14748813c1043b8122f99"),
+    "title" : "ejercicio",
+    "text" : "realizar un poco de ejercicio en el aire libre",
+    "file" : "null",
+    "user" : ObjectId("5def4dabbb7c9d37447fdfac"),
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5df150f3813c1043b8122fb2"),
+    "title" : "dia de tormenta",
+    "text" : "el cielo esta nublado, llevar paraguas",
+    "file" : "",
+    "user" : ObjectId("5df14c37813c1043b8122fa8"),
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5df1ddc8907bde2ae4c5297b"),
+    "title" : "recoger 2",
+    "text" : "recoger 2",
+    "file" : "",
+    "user" : ObjectId("5df14c37813c1043b8122fa8"),
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5df1dfc7907bde2ae4c52982"),
+    "title" : "consulass",
+    "text" : "sjdfnf",
+    "file" : "",
+    "user" : ObjectId("5df14c37813c1043b8122fa8"),
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5df1e498907bde2ae4c52987"),
+    "title" : "nueva nota",
+    "text" : "esta es la nueva nota",
+    "file" : "null",
+    "user" : ObjectId("5df14c37813c1043b8122fa8"),
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5df2de6cd93c2f18dcf7b433"),
+    "title" : "fklwejfklwejfkwje",
+    "text" : "oscar",
+    "file" : "",
+    "user" : ObjectId("5df14c37813c1043b8122fa8"),
+    "__v" : 0
+}
